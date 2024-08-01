@@ -6,12 +6,12 @@
 <resources>
     <!-- Build properties from a GMS certified device against current platform SPL level -->
     <string-array name="config_certifiedBuildProperties" translatable="false">
-        <item>MANUFACTURER:askey</item>
-        <item>BRAND:ADT-3</item>
-        <item>DEVICE:adt3</item>
-        <item>PRODUCT:adt3_gtv</item>
-        <item>MODEL:ADT-3</item>
-        <item>FINGERPRINT:ADT-3/adt3_gtv/adt3:S/SPP2.210219.010/7201729:user/release-keys</item>
-        <item>SECURITY_PATCH:2021-03-05</item>
+        <item>PRODUCT:husky_beta</item>
+        <item>DEVICE:husky</item>
+        <item>MANUFACTURER:Google</item>
+        <item>BRAND:google</item>
+        <item>MODEL:Pixel 8 Pro</item>
+        <item>FINGERPRINT:google/husky_beta/husky:15/AP31.240617.009/12094726:user/release-keys</item>
+        <item>VERSION.SECURITY_PATCH:2024-07-05</item>
     </string-array>
 </resources>
